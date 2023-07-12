@@ -1,0 +1,7 @@
+package tpPams;
+
+public class nombreAleatoire {
+
+	public static void main(String[] arg)
+	
+}

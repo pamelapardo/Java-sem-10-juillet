@@ -1,0 +1,7 @@
+package tpNumAleatoire;
+
+public class nombreAleatoire {
+
+	public static void main(String[] arg)
+	
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/pamelapardo/Documents/Semaine-10-juillet-tp/tpquatre/.metadata/.plugins/org.eclipse.jdt.core
+3422196143.index
+1865797976.index
+1175494123.index
